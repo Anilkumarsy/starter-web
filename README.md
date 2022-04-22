@@ -14,3 +14,7 @@ Phasellus purus neque, ultrices ut efficitur vitae, commodo eu sapien. Pellentes
 Etiam sed turpis ultricies odio consequat tincidunt id eget nisi. Maecenas nec orci nec lectus lacinia fermentum. Proin nisi erat, aliquet ac enim vitae, feugiat sagittis libero. Cras est nisl, pharetra ac elit et, euismod sollicitudin nibh. Praesent rutrum condimentum leo, ut rhoncus nisl congue non. Praesent non ipsum sit amet diam imperdiet faucibus. Nam nulla felis, interdum quis elementum et, ornare sit amet nunc. Pellentesque sollicitudin, massa ut convallis viverra, eros mi condimentum sapien, vitae facilisis libero neque sagittis sapien. Nullam mattis mollis lorem, a scelerisque diam ornare non. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Nulla vitae sapien sodales, laoreet nulla ut, bibendum dui. Donec in erat eros. Aenean auctor molestie vestibulum. Nullam neque mi, gravida ac tincidunt eu, ultrices et turpis. Nam vel interdum ante. Vestibulum non elit molestie sapien tincidunt vehicula ut imperdiet sem.
 
 ## how to contribute 
+
+## Copyright
+
+2014 Git.Training
