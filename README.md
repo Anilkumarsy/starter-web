@@ -1,7 +1,7 @@
 # Starter Web Repo
 
 In nec auctor elit. Nunc ut odio sit amet lectus semper molestie imperdiet non ex. Etiam sollicitudin nunc orci, et viverra turpis mattis eleifend. Cras gravida faucibus risus quis pellentesque. Mauris pellentesque dolor eget porttitor porttitor. Donec fermentum felis ac lacus gravida bibendum. Nunc maximus, mi non viverra pellentesque, enim nisl viverra mauris, sit amet auctor ex lacus a odio. Aliquam ullamcorper ut orci id auctor. Donec et placerat elit. Vivamus rhoncus sit amet ex bibendum rutrum. Aenean quis vehicula nisi. Pellentesque posuere feugiat nibh in rhoncus. Vivamus consequat sit amet purus a maximus. Maecenas sed turpis ac justo ullamcorper interdum.
-
+Adding a line for rebaseing example.
 ## introduction
 
 Quisque fringilla enim risus, et tempus diam interdum at. Pellentesque suscipit risus nunc, quis vulputate lorem iaculis ut. Quisque imperdiet purus nibh, sed molestie ipsum vulputate sed. Integer euismod justo nec erat venenatis, nec blandit libero mattis. Vivamus bibendum risus sed semper placerat. Etiam condimentum elit id mattis ultricies. Duis laoreet sagittis massa vel molestie. Vivamus at nunc sit amet lorem aliquam porta hendrerit tempor nisi. Nam molestie turpis ut urna molestie tincidunt. Cras odio nulla, malesuada a nulla in, eleifend egestas risus. Morbi porttitor euismod condimentum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Fusce aliquam interdum turpis, non iaculis neque mollis non.
