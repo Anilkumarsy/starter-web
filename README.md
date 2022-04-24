@@ -16,7 +16,7 @@ Etiam sed turpis ultricies odio consequat tincidunt id eget nisi. Maecenas nec o
 ## how to contribute 
 
 Please fork this ripostoriy and then raise pull request for review.
-
+then ask to ur mentor........
 ## Copyright
 
 2014 Git.Training
